@@ -21,7 +21,7 @@
 		<ES4-DisableProfileRequest xmlns="http://namespaces.gsma.org/esim-messaging/1" xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" xmlns:ns3="http://www.w3.org/2005/08/addressing">
 			<functionCallIdentifier>DisableProfile1441780870780</functionCallIdentifier>
 			<validityPeriod>60</validityPeriod>
-			<eid>0063685600000000000000000C9108E9</eid>
+			<eid>00636856003453245200000000C9108E9</eid>
 			<iccid>4</iccid>
 		</ES4-DisableProfileRequest>
 	</S:Body>
