@@ -22,8 +22,8 @@
 			<rps:functionCallIdentifier>1</rps:functionCallIdentifier>
 			<rps:eid>0063685600010000000000000C9108E9</rps:eid>
 			<rps:smsrId>1.3.6.1.4.1.31746.1.500.200</rps:smsrId>
-			<rps:iccid>89861114205718095554</rps:iccid>
-			<rps:enableProfile>false</rps:enableProfile>
+			<rps:iccid>8986145656756u76718095554</rps:iccid>
+		
 		</rps:ES2-DownloadProfileRequest>
 	</soap:Body>
 </soap:Envelope>
